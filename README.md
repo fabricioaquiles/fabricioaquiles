@@ -27,4 +27,4 @@
 [profile]: https://github-readme-stats.vercel.app/api?username=oDustDev&show_icons=true&theme=omni&count_private=true&hide_border=true
 [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=oDustDev&theme=omni&layout=compact&hide_border=true
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=oDustDev&color=blue" alt="MrRafaaeL profile views" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=oDustDev&color=blue" alt="Dust profile views" /> </p>
