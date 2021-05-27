@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo ao meu perfil. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> 
 
-- Trabalho atualmente na https://stormplugins.com
+- 🤖 Trabalho atualmente na https://stormplugins.com
 
 - ⚔️ Extenso conhecimento em Factions
 
