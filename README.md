@@ -6,7 +6,7 @@
 
 - 💼 Aceitando encomendas.
 
-## ➟ CONHECIMENTOS:
+### ➟ CONHECIMENTOS:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" />
@@ -18,7 +18,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
 </p>
 
-## ➟ IDE's
+### ➟ IDE's
 
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
 
