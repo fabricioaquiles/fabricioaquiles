@@ -21,6 +21,7 @@
 ### ➟ IDE's
 
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
+  ![VisualStudio](https://img.shields.io/badge/VisualStudio-FFFFFF?style=for-the-badge&logo=android-idea&logoColor=blue)
   
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/438865800053522433)
 
