@@ -1,8 +1,8 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
+
 # Olá! Seja bem-vindo ao meu perfil. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> 
 
 - 🤖 Trabalho atualmente na https://stormplugins.com
-
-- ⚔️ Extenso conhecimento em Factions
 
 - 💼 Aceitando encomendas.
 
@@ -21,6 +21,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" />
 </p>
+
+### ➟ IDE's
+
+  ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
 
 ![profile] 
 ![languages]
