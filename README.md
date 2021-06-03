@@ -6,11 +6,7 @@
 
 - 💼 Aceitando encomendas.
 
-➟ INFORMAÇÕES:
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/438865800053522433)
-
-➟ CONHECIMENTOS:
+## ➟ CONHECIMENTOS:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" />
@@ -26,6 +22,7 @@
 
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
 
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/438865800053522433)
 ![profile] 
 ![languages]
 
