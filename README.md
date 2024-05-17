@@ -27,6 +27,7 @@
 ### ➟ IDE's
 
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
+  ![VSCode](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 
 ![profile] 
 ![languages]
