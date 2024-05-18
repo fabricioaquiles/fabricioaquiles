@@ -31,6 +31,7 @@ My name is Fabrício Aquiles, I have more than 6 years of experience with softwa
 
   ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=blue)
   ![VSCode](https://img.shields.io/badge/vscode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+  ![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=blue)
 
 ![profile] 
 ![languages]
