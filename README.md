@@ -9,10 +9,7 @@ My name is Fabrício Aquiles, I have more than 6 years of experience with softwa
 > 💼 Accepting orders.
 
 ### ⚛️  Programming Languages and Frameworks:
-
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,typescript,php)](https://skillicons.dev)
-  <br/>
-[![My Skills](https://skillicons.dev/icons?i=spring,nestjs,nextjs,prisma,mysql,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,typescript,spring,nestjs,prisma,mysql,redis,docker)](https://skillicons.dev)
 
 ### 📃 IDE's
   [![My Skills](https://skillicons.dev/icons?i=idea,vscode,pycharm)](https://skillicons.dev)
