@@ -17,7 +17,4 @@ My name is Fabrício Aquiles, I have more than 6 years of experience with softwa
 ![profile] 
 ![languages]
 
-[profile]: https://github-readme-stats.vercel.app/api?username=fabricioaquiles&show_icons=true&theme=omni&count_private=true&hide_border=true
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioaquiles&theme=omni&layout=compact&hide_border=true
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fabricioaquiles&color=blue" alt="Dust profile views" /> </p>
