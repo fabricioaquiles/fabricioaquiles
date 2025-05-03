@@ -9,10 +9,10 @@ My name is Fabrício Aquiles, I have more than 6 years of experience with softwa
 > 💼 Software Engineer at https://simplefinance.cloud
 
 ### ⚛️  Programming Languages and Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=java,typescript,spring,nestjs,prisma,mysql,redis,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,typescript,spring,nestjs,prisma,mysql,redis,docker,aws)](https://skillicons.dev)
 
 ### 📃 IDE's
-  [![My Skills](https://skillicons.dev/icons?i=idea,vscode,pycharm)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode)](https://skillicons.dev)
   
 ![profile] 
 ![languages]
