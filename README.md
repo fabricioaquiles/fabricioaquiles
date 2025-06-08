@@ -8,7 +8,7 @@ My name is Fabrício Aquiles, I have more than 6 years of experience with softwa
 > 🤖 Developer at https://stormstudios.com.br <br/>
 
 ### ⚛️  Programming Languages and Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=java,typescript,spring,nestjs,prisma,mysql,redis,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,typescript,spring,nestjs,prisma,mysql,redis,docker,aws,terraform)](https://skillicons.dev)
 
 ### 📃 IDE's
   [![My Skills](https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode)](https://skillicons.dev)
