@@ -4,9 +4,8 @@
 
 My name is Fabrício Aquiles, I have more than 6 years of experience with software development, see a little.
 
-> 💼 Software Engineer at https://simplefinance.cloud <br/>
+> 💼 Software Engineer at https://simplesolution.com.br <br/>
 > 🤖 Developer at https://stormstudios.com.br <br/>
-> 🛸 Director at https://spacefy.com.br
 
 ### ⚛️  Programming Languages and Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=java,typescript,spring,nestjs,prisma,mysql,redis,docker,aws)](https://skillicons.dev)
